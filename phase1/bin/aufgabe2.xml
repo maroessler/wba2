@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Formular>
+	<Person Gruppenleiter=1>
+			<Vorname>Manfred</Vorname>
+			<Nachname>Haudrauf</Nachname>
+			<Email>Haudrauf@Autsch.de</Email>
+			<GDatum>01.01.1973</GDatum>
+			<Erfahrung>Keine</Erfahrung>
+			<Schlagzeug>Groß</Schlagzeug>
+			<Anmerkung></Anmerkung>
+	</Person>
+	<Person Gruppenleiter=0>
+			<Nachname>Specht</Nachname>
+			<Vorname>Sabine</Vorname>
+			<Email>Sabbel@büro.de</Email>
+			<GDatum>02.02.1923</GDatum>
+			<Erfahrung>ne Menge</Erfahrung>
+			<Schlagzeug>Mini</Schlagzeug>
+			<Anmerkung></Anmerkung>
+	</Person>
+</Formular>
