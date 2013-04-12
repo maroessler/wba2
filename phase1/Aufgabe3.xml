@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Chefkoch xmlns="http://www.w3schools.com">
+    <Rezept id="1">
+        <info>
+            <Ueberschrift>Lenchens Schokokuchen</Ueberschrift>
+            <Bild>http://www.google.de/bild.jpg</Bild>
+        </info>
+        <Zutatenliste>
+            <Zutat>
+                <Menge>200</Menge>
+                <Einheit>Gramm</Einheit>
+                <Bezeichnung>Butter</Bezeichnung>
+            </Zutat>
+            <Zutat>
+                <Menge>200</Menge>
+                <Einheit>Gramm</Einheit>
+                <Bezeichnung>Zucker</Bezeichnung>
+            </Zutat>
+            <Zutat>
+                <Menge>200</Menge>
+                <Einheit>Gramm</Einheit>
+                <Bezeichnung>Schokolade</Bezeichnung>
+            </Zutat>
+            <Zutat>
+                <Menge>120</Menge>
+                <Einheit>Gramm</Einheit>
+                <Bezeichnung>Mehl</Bezeichnung>
+            </Zutat>
+            <Zutat>
+                <Menge>0.5</Menge>
+                <Einheit>Teeloeffel</Einheit>
+                <Bezeichnung>Backpulver</Bezeichnung>
+            </Zutat>
+            <Zutat>
+                <Menge>1</Menge>
+                <Einheit>Packung</Einheit>
+                <Bezeichnung>Vanillezucker</Bezeichnung>
+            </Zutat>
+            <Zutat>
+                <Menge>4</Menge>
+                <Einheit>Stueck</Einheit>
+                <Bezeichnung>Ei(er)</Bezeichnung>
+            </Zutat>
+        </Zutatenliste>
+        <Zubereitung>
+            <Arbeitszeit>60</Arbeitszeit>
+            <Schwierigkeitsgrad>normal</Schwierigkeitsgrad>
+            <Brennwert>295</Brennwert>
+            <Anleitung>Butter und Schokolade im Wasserbad schmelzen. Eier
+				trennen. Eiweiss steif schlagen. Eigelbe, Zucker und Vanillezucker
+				verruehren. Geschmolzene Butter-Schokomasse hinzufuegen und mischen.
+				Mehl mit dem Backpulver in die Masse sieben und zum Schluss die
+				steifen Eiweisse vorsichtig unterheben. In eine gut gefettete Form
+				geben.
+				Bei 180Grad 40 bis 50 Minuten backen.
+			</Anleitung>
+        </Zubereitung>
+        <Kommentare>
+            <Nachricht>Schmeckt nicht</Nachricht>
+        </Kommentare>
+    </Rezept>
+    <Rezept id="2">
+        <info>
+            <Ueberschrift>Lenchens doppelter Eierkuchen</Ueberschrift>
+            <Bild>http://www.google.de/bild.jpg</Bild>
+        </info>
+        <Zutatenliste>
+            <Zutat>
+                <Menge>400</Menge>
+                <Einheit>Gramm</Einheit>
+                <Bezeichnung>Butter</Bezeichnung>
+            </Zutat>
+            <Zutat>
+                <Menge>400</Menge>
+                <Einheit>Gramm</Einheit>
+                <Bezeichnung>Zucker</Bezeichnung>
+            </Zutat>
+            <Zutat>
+                <Menge>400</Menge>
+                <Einheit>Gramm</Einheit>
+                <Bezeichnung>Schokolade</Bezeichnung>
+            </Zutat>
+            <Zutat>
+                <Menge>240</Menge>
+                <Einheit>Gramm</Einheit>
+                <Bezeichnung>Mehl</Bezeichnung>
+            </Zutat>
+            <Zutat>
+                <Menge>1</Menge>
+                <Einheit>Teeloeffel</Einheit>
+                <Bezeichnung>Backpulver</Bezeichnung>
+            </Zutat>
+            <Zutat>
+                <Menge>1</Menge>
+                <Einheit>Packung</Einheit>
+                <Bezeichnung>Vanillezucker</Bezeichnung>
+            </Zutat>
+            <Zutat>
+                <Menge>8</Menge>
+                <Einheit>Stueck</Einheit>
+                <Bezeichnung>Ei(er)</Bezeichnung>
+            </Zutat>
+        </Zutatenliste>
+        <Zubereitung>
+            <Arbeitszeit>120</Arbeitszeit>
+            <Schwierigkeitsgrad>schwer</Schwierigkeitsgrad>
+            <Brennwert>800</Brennwert>
+            <Anleitung>Butter und Schokolade im Pool schmelzen. Eier
+				saufen. Eiweiss schief schlagen. Eigelbe, Zucker und Vanillezucker
+				verruehren. Geschmolzene Butter-Schokomasse fallen lassen und mischen.
+				Mehl mit dem Backpulver in die Masse schmeißen und zum Schluss die
+				schiefen Eiweisse vorsichtig manschen. In eine gut gefettete Form
+				geben.
+				Bei 180.000Grad 1 bis 2 Minuten backen.
+			</Anleitung>
+        </Zubereitung>
+        <Kommentare>
+            <Nachricht>serh lecker!</Nachricht>
+        </Kommentare>
+    </Rezept>
+</Chefkoch>

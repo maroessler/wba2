@@ -1,0 +1,29 @@
+{"Formular":{
+	"Leiter":{
+		"Vorname": "Manfred",
+		"Nachname": "Haudrauf",
+		"Email": "Haudrauf@Autsch.de",
+		"Gdatum": "01.01.1973",
+		"Erfahrung": "Keine",
+		"Schlagzeug": "Groß",
+		"Anmerkung": ""
+	}
+	"Person": [ {
+		"Vorname": "Sabine",
+		"Nachname": "Specht",
+		"Email": "Sabbel@büro.de",
+		"Gdatum": "02.02.1923",
+		"Erfahrung": "ne Menge",
+		"Schlagzeug": "Mini"
+	} ,
+	{
+		"Vorname": "Sabine",
+		"Nachname": "Specht",
+		"Email": "Sabbel@büro.de",
+		"Gdatum": "02.02.1923",
+		"Erfahrung": "ne Menge",
+		"Schlagzeug": "Mini"
+	} ]
+}}
+
+	
